@@ -1,0 +1,6 @@
+yolo/
+imgs/
+runs/
+yolov8m.pt
+.vscode/
+data/
